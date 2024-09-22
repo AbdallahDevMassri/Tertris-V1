@@ -11,7 +11,8 @@ terraform.tfvars
 # Ignore Terraform providers and modules
 .terraform/providers/
 .terraform/modules/
-
+.terraform/
+*.exe
 # IDE-related files
 #intellij
 .idea/
